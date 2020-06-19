@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "977856727390",
+    "firebase_url": "https://pushnotifexer.firebaseio.com",
+    "project_id": "pushnotifexer",
+    "storage_bucket": "pushnotifexer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977856727390:android:2cde1e90aed963413527cf",
+        "android_client_info": {
+          "package_name": "com.infocovid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977856727390-nv608mjeh32kvudslj3umlqsoc19tjr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwyMB_Q-L02XnFnJCCLPWmZAEZEhX3CIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977856727390-nv608mjeh32kvudslj3umlqsoc19tjr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
